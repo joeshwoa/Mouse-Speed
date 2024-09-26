@@ -1,9 +1,3 @@
-# mouse
-
-A new Flutter project.
-
-## Getting Started
-
 # Mouse Speed
 Mouse Speed is a Flutter-based application designed to measure and display mouse movement speeds, making it useful for developers, gamers, or anyone interested in tracking their mouse usage. The app captures real-time movement data and provides visual feedback, allowing users to analyze their mouse behavior.
 
